@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Bintang</h1>
+    <h2>Arma</h2>
 </body>
 </html>
